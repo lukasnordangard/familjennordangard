@@ -1,0 +1,7 @@
+
+.content{
+    display: flex;              /*Use css flexbox*/
+    height: 100vh;              /*Make height 100% of screen height*/
+    justify-content: center;    /*Center content horizontally*/
+    align-items: center;        /*Center content vertically*/
+}
